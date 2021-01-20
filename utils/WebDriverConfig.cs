@@ -11,6 +11,8 @@ namespace SGA.utils
     {
         ExtentReports reports = new ExtentReports();
         public static int test_number = 01;
+
+        //Method where will initialize web driver and setup initial config.
         public IWebDriver WebDriverInitialConfig(IWebDriver driver, string baseUrl, ref ExtentTest test)
         {
             ExtentStart();
@@ -32,6 +34,7 @@ namespace SGA.utils
             return driver;
         }
 
+        //Method to close the web driver.
         public void CloseWebDriver(IWebDriver driver)
         {
             try
@@ -49,7 +52,8 @@ namespace SGA.utils
         [OneTimeSetUp]
         public void ExtentStart()
         {
-            var htmlReporter = new ExtentV3HtmlReporter(@"C:\Users\marco.andrade\Desktop\SGA-With_Extent_Report\ExtentReports\Login_results.html");   
+            // Here is your folder where the html file will be generated.
+            var htmlReporter = new ExtentV3HtmlReporter(@"");   
             reports.AttachReporter(htmlReporter);
         }
 

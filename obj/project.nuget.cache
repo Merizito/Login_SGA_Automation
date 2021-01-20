@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2JbqXqTOlpVqDeCERlPVhBvGsdSIiBxtJJr+eUJz7Ih4b8QOAhDy+iap3JHh3fwjO9hsabjKrDppN9Z+ggc+Xw==",
+  "dgSpecHash": "sLzrwMK0rDOZgeTuyJh+6mxzGVl9hfpHd6rep6aWsju52VmFpAcSw+b4w7W7QQ4fl03IAUSaRMv261OcIfU6Gg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\marco.andrade\\Desktop\\SGA-With_Extent_Report\\SGA.csproj",
+  "projectFilePath": "c:\\Users\\marco.andrade\\Documents\\Práticas de Testes\\SGA-With_Extent_Report\\SGA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco.andrade\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\marco.andrade\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",

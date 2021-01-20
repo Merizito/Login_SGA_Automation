@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\marco.andrade\\Desktop\\SGA-With_Extent_Report\\SGA.csproj": {}
+    "c:\\Users\\marco.andrade\\Documents\\Práticas de Testes\\SGA-With_Extent_Report\\SGA.csproj": {}
   },
   "projects": {
-    "c:\\Users\\marco.andrade\\Desktop\\SGA-With_Extent_Report\\SGA.csproj": {
+    "c:\\Users\\marco.andrade\\Documents\\Práticas de Testes\\SGA-With_Extent_Report\\SGA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\marco.andrade\\Desktop\\SGA-With_Extent_Report\\SGA.csproj",
+        "projectUniqueName": "c:\\Users\\marco.andrade\\Documents\\Práticas de Testes\\SGA-With_Extent_Report\\SGA.csproj",
         "projectName": "SGA",
-        "projectPath": "c:\\Users\\marco.andrade\\Desktop\\SGA-With_Extent_Report\\SGA.csproj",
+        "projectPath": "c:\\Users\\marco.andrade\\Documents\\Práticas de Testes\\SGA-With_Extent_Report\\SGA.csproj",
         "packagesPath": "C:\\Users\\marco.andrade\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\marco.andrade\\Desktop\\SGA-With_Extent_Report\\obj\\",
+        "outputPath": "c:\\Users\\marco.andrade\\Documents\\Práticas de Testes\\SGA-With_Extent_Report\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marco.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -20,6 +20,7 @@
           "netcoreapp3.1"
         ],
         "sources": {
+          "http://devops.concert.com.br:8088/NugetServer/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
